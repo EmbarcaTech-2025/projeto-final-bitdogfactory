@@ -7,9 +7,12 @@ Este documento registra o desenvolvimento da terceira etapa do projeto, focada n
 ## 1\. Registro da Montagem e Testes
 
 ### Fotos da Montagem
+![](midia/foto1.jpeg)
+![](midia/foto2.jpeg)
+![](midia/foto3.jpeg)
 
 ### Vídeo de explicativo
-
+![](midia/video_explicativo.mp4)
 -----
 
 ## 3\. Melhorias Planejadas e Ajustes
