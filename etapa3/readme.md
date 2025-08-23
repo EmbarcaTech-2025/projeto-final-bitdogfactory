@@ -12,7 +12,10 @@ Este documento registra o desenvolvimento da terceira etapa do projeto, focada n
 ![](midia/foto3.jpeg)
 
 ### Vídeo de explicativo
-![](midia/video_explicativo.mp4)
+
+Clique na imagem abaixo para assistir ao vídeo.
+
+[![Demonstração do Protótipo](https://img.youtube.com/vi/6O29UrTsJZ8/0.jpg)](https://www.youtube.com/watch?v=6O29UrTsJZ8)
 -----
 
 ## 3\. Melhorias Planejadas e Ajustes
